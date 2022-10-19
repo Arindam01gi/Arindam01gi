@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 👋 Hi, I’m @Arindam01gi
 👀 I’m interested in FullStack Web Development
 🌱 I’m currently learning React.js
-💞️ I’m looking to collaborate on FrontEnd WebDev project
+💞️ I’m looking to collaborate on FrontEnd  project.
 
 
 ## 🌐 Socials:
