@@ -4,7 +4,7 @@ Arindam01gi/Arindam01gi is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-👋 Hi, I’m @Arindam01gi
+👋 Hi, I’m Arindam
 👀 I’m interested in FullStack Web Development
 🌱 I’m currently learning React.js
 💞️ I’m looking to collaborate on FrontEnd  project.
