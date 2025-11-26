@@ -52,7 +52,7 @@ A full-stack mobile app built in **Kotlin + Node.js** with recipe search, recent
 A modern, clean, animated portfolio with micro-interactions and smooth transitions.  
 - Built using **React**, **Tailwind**, and **Framer Motion**  
 - Fully responsive and production-ready  
-🔗 Live Link: *[(add link)](https://arindam1-portfolio.netlify.app/)*  
+🔗 Live Link: *[(portfolio)](https://arindam1-portfolio.netlify.app/)*  
 🔗 Repo: *(add repo link)*
 
 ---
@@ -61,7 +61,7 @@ A modern, clean, animated portfolio with micro-interactions and smooth transitio
 A full website for my tech agency with premium UI, dynamic sections, and dark-themed interactive design.  
 - Multi-section animations  
 - Services, Portfolio, Contact pages  
-🔗 Live Link: *[(add)](https://resolveby.com/)*  
+🔗 Live Link: *[(resolveby)](https://resolveby.com/)*  
 ---
 
 ## 📊 GitHub Stats (Auto-Refreshing)
@@ -74,8 +74,8 @@ A full website for my tech agency with premium UI, dynamic sections, and dark-th
 
 ## ✉️ Connect With Me
 
-- 💼 LinkedIn: *[(add link)](https://www.linkedin.com/in/arindam-maiti/)*  
-- 🌐 Portfolio: *[(add link)](https://arindam1-portfolio.netlify.app)*  
+- 💼 LinkedIn: *[(Linkedin)](https://www.linkedin.com/in/arindam-maiti/)*  
+- 🌐 Portfolio: *[(Portfolio)](https://arindam1-portfolio.netlify.app)*  
 - 📫 Email: **arindammaiti2018@gmail.com**
 
 ---
