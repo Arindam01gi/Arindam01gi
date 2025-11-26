@@ -1,22 +1,93 @@
+# 👋 Hi, I'm Arindam Maiti  
+### Full-Stack Developer • 3+ Years Experience • Building Modern Web Apps
 
-<!---
-Arindam01gi/Arindam01gi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# 💫 About Me:
-Hi, I’m Arindam. I’m interested in FullStack Web Development.I’m looking to collaborate on FullStack  project.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arindam-maiti) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arindam01gi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arindam01gi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arindam01gi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I’m a full-stack developer passionate about creating clean, scalable, and user-focused digital products.  
+I enjoy building robust backends, sleek UI/UX, and deploying real apps that solve real problems.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arindam01&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
+## 🚀 About Me
+
+- 🧑‍💻 Full-Stack Developer with **3+ years of hands-on experience**
+- 💼 Experienced in **frontend, backend, cloud deployment, and system design**
+- 🌱 Currently improving my skills in **React.js, AWS, and scalable backend architecture**
+- 🔍 Open to collaborating on **production-ready projects, SaaS ideas, and open-source initiatives**
+- 🎯 Goal for 2025: Build and publish **3 SaaS / micro-products** end-to-end
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+- React.js • JavaScript (ES6+) • HTML5 • CSS3  
+- Tailwind CSS • Bootstrap • Responsive & Mobile-First UI  
+- State Mgmt: Context API / Redux Toolkit 
+
+### **Backend**
+- Node.js • Express.js  
+- PHP (Laravel basic)  
+- REST API development • Authentication (JWT/Tokens)
+
+### **Database & DevOps**
+- MySQL • MongoDB (learning)  
+- AWS EC2 • Nginx • PM2 • GitHub Actions 
+
+### **Tools**
+- Git & GitHub • Postman • VS Code • Linux (Ubuntu server)  
+- Figma (UI/UX basics)
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 **RecipePad – Recipes App (Android)**
+A full-stack mobile app built in **Kotlin + Node.js** with recipe search, recent recipes, details page, user login & cloud API.  
+- Backend deployed on **AWS EC2**  
+- Authentication, CRUD operations, and optimized API structure  
+👉 *(Repo private — available on request)*
+
+---
+
+### 🔹 **Portfolio Website (React + Tailwind)**  
+A modern, clean, animated portfolio with micro-interactions and smooth transitions.  
+- Built using **React**, **Tailwind**, and **Framer Motion**  
+- Fully responsive and production-ready  
+🔗 Live Link: *[(add link)](https://arindam1-portfolio.netlify.app/)*  
+🔗 Repo: *(add repo link)*
+
+---
+
+### 🔹 **ResolveBy – Company Website (Next.js / React)**  
+A full website for my tech agency with premium UI, dynamic sections, and dark-themed interactive design.  
+- Multi-section animations  
+- Services, Portfolio, Contact pages  
+🔗 Live Link: *[(add)](https://resolveby.com/)*  
+---
+
+## 📊 GitHub Stats (Auto-Refreshing)
+
+![Arindam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arindam01gi&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arindam01gi&layout=compact&theme=tokyonight)
+
+---
+
+## ✉️ Connect With Me
+
+- 💼 LinkedIn: *[(add link)](https://www.linkedin.com/in/arindam-maiti/)*  
+- 🌐 Portfolio: *[(add link)](https://arindam1-portfolio.netlify.app)*  
+- 📫 Email: **arindammaiti2018@gmail.com**
+
+---
+
+## 🤝 Looking For
+
+- Collaboration on SaaS tools  
+- Open-source contributions  
+- Startup / early-stage product work  
+- Freelance & consulting opportunities  
+
+---
+
+⭐ **Thanks for visiting! Feel free to explore my repositories and drop a message if you'd like to work together.**  
+
