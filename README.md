@@ -53,7 +53,7 @@ A modern, clean, animated portfolio with micro-interactions and smooth transitio
 - Built using **React**, **Tailwind**, and **Framer Motion**  
 - Fully responsive and production-ready  
 🔗 Live Link: *[(portfolio)](https://arindam1-portfolio.netlify.app/)*  
-🔗 Repo: *(add repo link)*
+🔗 Repo: *[(code)](https://github.com/Arindam01gi/my-portfolio)*
 
 ---
 
